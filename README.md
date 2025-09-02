@@ -1,4 +1,4 @@
-# Typing Test Tool ⌨️🚀
+# TypingTestTool ⌨️🚀
 
 ![Typing Test Tool Cover](https://github.com/typingtesttool/typingtesttool/blob/main/typingtesttool-homepage-screenshot.png)
 
