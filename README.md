@@ -12,7 +12,7 @@ Welcome to **Typing Test Tool** — a free online platform to **practice typing*
 
 - 🌍 Website: [https://www.typingtesttool.com](https://www.typingtesttool.com)
 - 📝 Free Typing Test: [https://www.typingtesttool.com/test](https://www.typingtesttool.com/typing-test/english-1-minute)  
-- 📬 Contact Us: [https://www.typingtesttool.com/contact](https://www.typingtesttool.com/contact-us)  
+- 📬 Contact Us: [https://www.typingtesttool.com/contact-us](https://www.typingtesttool.com/contact-us)  
 
 ---
 
